@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Senior Software Engineer at [Akamai](akamai.com) / [Linode](linode.com).
+I am a Senior Software Engineer at [Akamai](https://akamai.com) / [Linode](https://linode.com).
 
 🔭 I’m currently working with / on:
 - :computer: Go, Python, Bash
@@ -26,7 +26,7 @@ I am a Senior Software Engineer at [Akamai](akamai.com) / [Linode](linode.com).
 - :thinking: probably yet another new CNCF project
 
 ⚡ Fun facts:
-- :green_book: I sometimes blog on [chowner.com](chowner.com/blog)
+- :green_book: I sometimes blog on [chowner.com](https://chowner.com/blog)
 - I like anime, :curry: curry, :cat: cats, and playing Beat Saber
 
 😄 Pronouns: she/her
