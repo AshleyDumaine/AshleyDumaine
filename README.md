@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Senior Software Engineer at [Akamai](https://akamai.com) / [Linode](https://linode.com).
+I am a Senior Software Engineer II at [Akamai](https://akamai.com) / [Linode](https://linode.com).
 
 <a href="https://www.linkedin.com/in/AshleyDumaine">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
@@ -31,9 +31,8 @@ I am a Senior Software Engineer at [Akamai](https://akamai.com) / [Linode](https
 ### 🌱 I’m currently learning
 - :technologist: CAPI
 - :thinking: probably yet another new CNCF project
+- :drum: how to play the drums
 
 ### ⚡ Fun facts
 - :green_book: I sometimes blog on [chowner.com](https://chowner.com/blog)
 - I like anime, :curry: curry, :cat: cats, and playing Beat Saber
-
-### 😄 Pronouns: she/her
