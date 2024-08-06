@@ -24,15 +24,15 @@ I am a Senior Software Engineer II at [Akamai](https://akamai.com) / [Linode](ht
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /> 
  </a><br/>
 
-### 🔭 I’m currently working with / on
+### 🧑‍💻 I’m currently working with / on
 
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/><br/>
 
 ### 🌱 I’m currently learning
-- :technologist: CAPI
+- 🐢 CAPI
 - :thinking: probably yet another new CNCF project
 - :drum: how to play the drums
 
 ### ⚡ Fun facts
 - :green_book: I sometimes blog on [chowner.com](https://chowner.com/blog)
-- I like anime, :curry: curry, :cat: cats, and playing Beat Saber
+- I like anime, :cat: cats, 🏄 paddleboarding, 🔭 astrophotography, and [playing Beat Saber](https://beatleader.xyz/u/76561198363188665)
