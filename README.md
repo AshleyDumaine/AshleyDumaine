@@ -35,4 +35,4 @@ I am a Senior Software Engineer II at [Akamai](https://akamai.com) / [Linode](ht
 
 ### ⚡ Fun facts
 - :green_book: I sometimes blog on [chowner.com](https://chowner.com/blog)
-- I like anime, :cat: cats, 🏄 paddleboarding, 🔭 astrophotography, and [playing Beat Saber](https://beatleader.xyz/u/76561198363188665)
+- I like anime, :cat: cats, 🧘‍♀️ yoga , 🏄 paddleboarding, 🔭 astrophotography, and [playing Beat Saber](https://beatleader.xyz/u/76561198363188665)
