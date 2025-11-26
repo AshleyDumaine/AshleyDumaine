@@ -31,8 +31,8 @@ I am a Senior Software Engineer II at [Akamai](https://akamai.com) / [Linode](ht
 ### 🌱 I’m currently learning
 - :thinking: probably yet another new CNCF project
 - :drum: how to play the drums
-- 🇨🇳 Mandarin Chinese
+- 🇨🇳 Mandarin Chinese, 🇲🇽 Spanish
 
 ### ⚡ Fun facts
-- :green_book: I sometimes blog on [chowner.com](https://chowner.com/blog)
-- My hobbies include 🧘‍♀️ yoga, 🏄 paddleboarding, 🔭 astrophotography, and [playing Beat Saber](https://beatleader.xyz/u/76561198363188665)
+- My website 👉 [chowner.com](https://chowner.com/blog)
+- My hobbies include 🧘‍♀️ yoga, 💻 blogging, 🏄 paddleboarding, 🔭 astrophotography, and [playing Beat Saber](https://beatleader.xyz/u/76561198363188665)
