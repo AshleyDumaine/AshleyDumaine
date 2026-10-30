@@ -40,5 +40,4 @@ I am a Senior II Software Engineer Lead at [Akamai](https://akamai.com) / [Linod
 - 🇨🇳 Mandarin Chinese, 🇲🇽 Spanish
 
 ### ⚡ Fun facts
-- My website 👉 [chowner.com](https://chowner.com/blog)
 - My hobbies include 🧘‍♀️ yoga, 📖 blogging, 💻 running self-hosted (especially LLMs), 🔭 astrophotography, and [playing Beat Saber](https://beatleader.xyz/u/76561198363188665) / 🎮 gaming in general
